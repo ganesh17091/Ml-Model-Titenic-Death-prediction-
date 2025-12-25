@@ -17,7 +17,7 @@ The goal of this project is to understand the **end-to-end ML workflow**, includ
 - Pandas  
 - NumPy  
 - scikit-learn  
-- Matplotlib / Seaborn (optional for visualization)
+- Matplotlib 
 
 ## 📂 Dataset
 - Titanic Dataset (from Kaggle / sklearn examples)
@@ -30,8 +30,8 @@ The goal of this project is to understand the **end-to-end ML workflow**, includ
 5. Evaluate model performance  
 
 ## 📈 Model Used
-- Classification model using **scikit-learn**  
-  (e.g., Logistic Regression / Random Forest / Decision Tree)
+- Classification model using Logistic Regression  
+
 
 ## 🚀 Future Improvements
 - Try multiple ML algorithms  
